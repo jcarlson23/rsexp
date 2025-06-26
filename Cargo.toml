@@ -10,8 +10,6 @@ keywords = ["s-expression", "sexp", "serialization"]
 license = "MIT/Apache-2.0"
 readme = "README.md"
 
-[workspace]
-members = ["rsexp-derive"]
 
 [dev-dependencies]
 quickcheck = "1"
